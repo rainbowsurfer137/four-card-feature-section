@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-card-layout-using-css-grid-ung1sIYMsr](https://www.frontendmentor.io/solutions/responsive-card-layout-using-css-grid-ung1sIYMsr)
 - Live Site URL: [https://rainbowsurfer137.github.io/four-card-feature-section/](https://rainbowsurfer137.github.io/four-card-feature-section/)
 
 ## My process
@@ -56,8 +56,8 @@ In future projects, I want to focus on gaining a deeper understanding of grid la
 
 ### Useful resources
 
-- [Example resource 1](https://youtu.be/xI9G0Zh5DVA?si=wO1P3C6xhWp5Ly5U) - This was a very helpful video, it helped me understand how grids work.
-- [Example resource 2](https://grid.malven.co) - This is an amazing website that helped me visualize grid properties and how they work.
+- [Resource 1](https://youtu.be/xI9G0Zh5DVA?si=wO1P3C6xhWp5Ly5U) - This was a very helpful video, it helped me understand how grids work.
+- [Resource 2](https://grid.malven.co) - This is an amazing website that helped me visualize grid properties and how they work.
 
 
 ## Author
