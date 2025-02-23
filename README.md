@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://rainbowsurfer137.github.io/four-card-feature-section/)
+- Live Site URL: [https://rainbowsurfer137.github.io/four-card-feature-section/](https://rainbowsurfer137.github.io/four-card-feature-section/)
 
 ## My process
 
